@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://volodimirian.github.io/kids-games/static/css/main.ab7136cd.chunk.css",
-    "main.js": "https://volodimirian.github.io/kids-games/static/js/main.0dccdc2b.chunk.js",
-    "main.js.map": "https://volodimirian.github.io/kids-games/static/js/main.0dccdc2b.chunk.js.map",
+    "main.js": "https://volodimirian.github.io/kids-games/static/js/main.7b16ba05.chunk.js",
+    "main.js.map": "https://volodimirian.github.io/kids-games/static/js/main.7b16ba05.chunk.js.map",
     "runtime-main.js": "https://volodimirian.github.io/kids-games/static/js/runtime-main.2be54dab.js",
     "runtime-main.js.map": "https://volodimirian.github.io/kids-games/static/js/runtime-main.2be54dab.js.map",
     "static/js/2.e422d636.chunk.js": "https://volodimirian.github.io/kids-games/static/js/2.e422d636.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.2be54dab.js",
     "static/js/2.e422d636.chunk.js",
     "static/css/main.ab7136cd.chunk.css",
-    "static/js/main.0dccdc2b.chunk.js"
+    "static/js/main.7b16ba05.chunk.js"
   ]
 }
