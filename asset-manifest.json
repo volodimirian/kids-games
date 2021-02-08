@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/kids-games/static/css/main.2d82daf8.chunk.css",
-    "main.js": "/kids-games/static/js/main.daa54004.chunk.js",
-    "main.js.map": "/kids-games/static/js/main.daa54004.chunk.js.map",
+    "main.js": "/kids-games/static/js/main.b8a87c7e.chunk.js",
+    "main.js.map": "/kids-games/static/js/main.b8a87c7e.chunk.js.map",
     "runtime-main.js": "/kids-games/static/js/runtime-main.73fab21a.js",
     "runtime-main.js.map": "/kids-games/static/js/runtime-main.73fab21a.js.map",
     "static/js/2.49851ca4.chunk.js": "/kids-games/static/js/2.49851ca4.chunk.js",
     "static/js/2.49851ca4.chunk.js.map": "/kids-games/static/js/2.49851ca4.chunk.js.map",
     "index.html": "/kids-games/index.html",
-    "precache-manifest.f6e2661eec875665f57b525d86304675.js": "/kids-games/precache-manifest.f6e2661eec875665f57b525d86304675.js",
+    "precache-manifest.f8c3f197ee888b46f7af68bd17d30c23.js": "/kids-games/precache-manifest.f8c3f197ee888b46f7af68bd17d30c23.js",
     "service-worker.js": "/kids-games/service-worker.js",
     "static/css/main.2d82daf8.chunk.css.map": "/kids-games/static/css/main.2d82daf8.chunk.css.map",
     "static/js/2.49851ca4.chunk.js.LICENSE.txt": "/kids-games/static/js/2.49851ca4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.73fab21a.js",
     "static/js/2.49851ca4.chunk.js",
     "static/css/main.2d82daf8.chunk.css",
-    "static/js/main.daa54004.chunk.js"
+    "static/js/main.b8a87c7e.chunk.js"
   ]
 }
