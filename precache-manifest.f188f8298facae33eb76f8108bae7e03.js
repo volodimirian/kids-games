@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a135cb1346926594e36a81f1e955ea44",
+    "revision": "8ff362b3bcc73beaf248d6bac3eb8ff3",
     "url": "/kids-games/index.html"
   },
   {
-    "revision": "cae18ecb7bd664e7303f",
+    "revision": "a404b89a94e4c16fddc1",
     "url": "/kids-games/static/css/main.2d82daf8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/kids-games/static/js/2.49851ca4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cae18ecb7bd664e7303f",
-    "url": "/kids-games/static/js/main.b8a87c7e.chunk.js"
+    "revision": "a404b89a94e4c16fddc1",
+    "url": "/kids-games/static/js/main.1b3804fc.chunk.js"
   },
   {
     "revision": "5f57a744e1e6e52bbf7d",
